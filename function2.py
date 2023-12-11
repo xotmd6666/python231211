@@ -10,7 +10,7 @@ def intersect(prelist, postlist):
 #함수 호출(중단점 추가)
 print(intersect("HAM", "SPAM"))
 
-#지역변수와 전역변수
+#지역변수와 전역변수 비교
 x = 10
 def func1(a):
     return a+x
