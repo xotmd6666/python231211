@@ -1,6 +1,9 @@
 강사PC
 \\10.10.0.91
 
+종이책 소스
+https://github.com/papasmf1/ChatGPTPython
+
 파이썬 사이트
 https://www.python.org/
 
@@ -67,10 +70,15 @@ print(len("첫번째\n두번째\n세번째\n".encode("cp949")))
 *파일분류
 파이썬으로 윈도우의 다운로드된 폴더에서 *.jpg, *.jpeg를 
 \images폴더로 이동, *.csv, *.xlsx파일은 \data폴더로, 
-*.pdf는 \docs폴더로 이동시키는 코드를 작성해줘
+*.pdf는 \docs폴더로 이동시키는 코드를 작성해줘.
+다운로드 폴더는 C:/Users/Student/Downloads
 
 데이터베이스 처음
 https://wikidocs.net/book/1530
+
+파이썬에서 SQLite를 사용해서 전자제품데이터를 입출력하는 코드를 작성해줘.
+제품ID, 제품명, 가격을 insert, update, delete, select구문을 클래스의 메서드 형태로 생성해서
+샘플 데이터를 10개 준비해줘
 
 웹크롤링 설치 
 cmd
