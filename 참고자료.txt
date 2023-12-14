@@ -113,6 +113,14 @@ https://wikidocs.net/85581
 막강 크롤러 만들기 
 https://dreamdeveloper403.tistory.com/73
 
+https://search.naver.com/search.naver?where=view&sm=tab_jum&query={search_keyword}
+파이썬에서 BeautifulSoup을 사용해서
+search_keyword로 검색어를 입력받아서 크롤링하는 코드를 작성해줘
+블로그명, 블로그주소, 제목, 포스팅날짜를 크롤링해서 사용하느 코드가 필요해
+
+openpyxl
+전자제품 판매 데이터를 제품ID,수량,가격을 100개를 생성해서 파이썬의 openpyxl을 사용해서 c:\\work\\product.xlsx파일로 저장하는 코드를 생성해줘
+
 
 실행파일 생성
 cmd
